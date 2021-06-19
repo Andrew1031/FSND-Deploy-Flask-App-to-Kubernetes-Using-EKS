@@ -20,5 +20,3 @@ metadata:
   resourceVersion: "1945"
   selfLink: /api/v1/namespaces/kube-system/configmaps/aws-auth
   uid: 8754de51-5f6b-4e6e-8931-facb7b048939
-
-#token: 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
