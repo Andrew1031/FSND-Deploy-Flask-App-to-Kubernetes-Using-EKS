@@ -1,6 +1,8 @@
 # .env_file content:
 
 JWT_SECRET='myjwtsecret'
+
+
 LOG_LEVEL=DEBUG
 
 
